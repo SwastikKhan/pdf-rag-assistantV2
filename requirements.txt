@@ -1,0 +1,7 @@
+streamlit
+nltk
+chromadb
+llama-index
+google-generativeai
+pymupdf4llm
+spacy
