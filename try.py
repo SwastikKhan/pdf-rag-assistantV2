@@ -1,3 +1,8 @@
+try:
+    import pysqlite3 as sqlite3
+except ImportError:
+    import sqlite3
+
 import os
 import streamlit as st
 import pathlib
