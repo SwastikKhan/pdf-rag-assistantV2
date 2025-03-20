@@ -1,6 +1,5 @@
 streamlit
 nltk
-sqlite3 >= 3.35.0
 chromadb
 llama-index
 google-generativeai
