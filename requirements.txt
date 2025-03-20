@@ -1,9 +1,8 @@
 streamlit
 nltk
-pysqlite3-binary
 chromadb
 llama-index
 google-generativeai
 pymupdf4llm
 spacy
-
+pysqlite3-binary
